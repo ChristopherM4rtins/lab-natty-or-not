@@ -15,6 +15,7 @@ Breves comandos indicando o pedido de gerar uma história, enfatizando os pontos
 
 ## 🚀 Resultados
 
+
 # O Renascer da Humanidade: Uma Jornada do Passado ao Futuro Cyberpunk
 
 ---
