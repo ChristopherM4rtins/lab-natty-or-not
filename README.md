@@ -15,12 +15,7 @@ Breves comandos indicando o pedido de gerar uma história, enfatizando os pontos
 
 ## 🚀 Resultados
 
-<p align="center">
-  <b>O Renascer da Humanidade: Uma Jornada do Passado ao Futuro Cyberpunk</b>
-</p>
-
----
-
+<h1 align="center">  
 No alvorecer da civilização, éramos nômades lutando pela sobrevivência nas vastas planícies da Terra. Descobrimos o fogo, dominamos a agricultura e formamos sociedades complexas que cresciam e evoluíam. Nossa curiosidade inata nos impulsionou a explorar, descobrir novas terras e inventar novas tecnologias. Dos tempos antigos aos dias atuais, cada avanço moldou nossa trajetória.
 
 No século 21, mergulhamos na era digital. A internet conectou bilhões de pessoas globalmente, transformando a maneira como vivemos, trabalhamos e nos relacionamos. A inteligência artificial emergiu, inicialmente como assistentes digitais e sistemas de automação, mas rapidamente evoluindo para redes neurais avançadas capazes de aprendizado profundo.
@@ -39,6 +34,7 @@ No entanto, há esperança. Grupos ativistas, cientistas renomados e visionário
 
 À medida que olhamos para frente, a incerteza paira sobre o horizonte. Mas há uma certeza: a história da humanidade é uma saga de adaptação e evolução. Nós enfrentamos desafios monumentais no passado e os superamos. Agora, no limiar do amanhã cyberpunk, é nossa responsabilidade moldar um futuro onde a tecnologia e a humanidade possam coexistir harmoniosamente.
 
+</h1>
 
 ## Links Interessantes
 
