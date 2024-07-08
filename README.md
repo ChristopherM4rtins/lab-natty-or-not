@@ -15,8 +15,6 @@ Breves comandos indicando o pedido de gerar uma história, enfatizando os pontos
 
 ## 🚀 Resultados
 
-# A Trajetória da Humanidade
-
 No alvorecer da civilização,
 éramos nômades lutando pela sobrevivência nas vastas planícies da Terra.
 Descobrimos o fogo, dominamos a agricultura
